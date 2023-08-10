@@ -72,6 +72,5 @@ public class UserServiceController {
 		return new ResponseEntity<>(error , HttpStatus.NOT_FOUND);
 	}
 	
-	
 
 }
